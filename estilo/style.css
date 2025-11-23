@@ -82,5 +82,5 @@ button {
 
 button:hover {
     background-color: rgb(134, 133, 133);
-    transition: background-color .5s;
+    transition: background-color 0.5s;
 }
