@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 767px) and (max-width: 1024px) {
+    main {
+        width: 500px;
+    }
+
+    button {
+        width: 440px;
+    }
+}
+
+@media screen and (min-width: 1025px) {
+    main {
+        width: 620px;
+    }
+
+    button {
+        width: 550px;
+    }
+}
