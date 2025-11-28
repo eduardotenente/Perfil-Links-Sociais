@@ -3,19 +3,23 @@
 @media screen and (min-width: 767px) and (max-width: 1024px) {
     main {
         width: 500px;
+        transition: all 0.3s ease-in-out;
     }
 
     button {
         width: 440px;
+        transition: all 0.3s ease-in-out;
     }
 }
 
 @media screen and (min-width: 1025px) {
     main {
         width: 620px;
+        transition: all 0.3s ease-in-out;
     }
 
     button {
         width: 550px;
+        transition: all 0.3s ease-in-out;
     }
 }
